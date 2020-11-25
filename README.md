@@ -1,15 +1,25 @@
 # Moskit
-Toolkit for testing Web Application Performance.
+Toolkit for testing performance of Web Applications.
 
-## TODO:
+## Running the dev env
+For compiling please use
+```bash
+$ make build
+```
+
+**Dependencies:**
+- Docker 19.03
+- Makefile
+
+### TODO:
   - [ ] Argument Proccesing
   - [ ] Support for custom requests
   - [ ] RPS/Endurance Tests
   - [ ] Different Payload sizes
   - [ ] Move features and projects to gitub kanban
-  - [ ] Version 0.1 
+  - [ ] Version 0.1
 
-## Nice to have features
+### Nice to have features
 - Chart generation
 - Prometheus application tracking
 - integration with Gitlab/Github CI
