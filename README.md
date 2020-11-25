@@ -7,9 +7,9 @@ For compiling please use
 $ make build
 ```
 
-Dependencies:
-    - Docker 19.03
-    - Makefile
+**Dependencies:**
+- Docker 19.03
+- Makefile
 
 ### TODO:
   - [ ] Argument Proccesing
